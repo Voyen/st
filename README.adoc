@@ -1,0 +1,22 @@
+= Voyen's st build
+
+== Installation
+
+```
+git clone https://github.com/Voyen/st
+cd st
+sudo make install
+```
+
+== Keybinds
+
+|===
+h| Keybind h| Function
+| kbd:[Alt + J/K] | Scroll terminal
+| kbd:[Alt + D/U] | Scroll terminal (faster, pgdn/pgup equiv.)
+| kbd:[Alt + Shift + J/K] | Zoom
+| kbd:[Ctrl + Shift + C/V] | Copy/Paste
+| kbd:[Alt + L] | Follow URLs
+| kbd:[Alt + Y] | Copy URLs
+| kbd:[Alt + O] | Copy output of commands
+|===
